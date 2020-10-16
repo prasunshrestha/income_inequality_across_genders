@@ -14,4 +14,6 @@ This project addresses the questions above, analyzing the NLSY79 dataset. It pre
   6. Regression Analysis
   7. Findings & Conclusion
 
-Note: The files in this repository are uploaded in retrospection | Project Date: Fall 2019
+Note: The files in this repository are uploaded in retrospection.
+
+Project Date: Fall 2019
